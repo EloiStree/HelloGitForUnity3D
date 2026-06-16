@@ -58,3 +58,9 @@ Si vous souhaitez d'abord apprendre le C#, je vous invite à consulter :
 
 Trouvez mes autres cours en cherchant `Hello` dans mes répertoires:
 [Hello... ](https://github.com/EloiStree?tab=repositories&q=Hello&type=&language=&sort=)
+
+
+------------
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a0186f24-e714-491a-97d1-9698d838cec0" />
+
