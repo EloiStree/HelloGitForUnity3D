@@ -64,3 +64,6 @@ Trouvez mes autres cours en cherchant `Hello` dans mes répertoires:
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a0186f24-e714-491a-97d1-9698d838cec0" />
 
+
+[<img width="610" height="293" alt="image" src="https://github.com/user-attachments/assets/8560de27-64ec-4b5c-95d0-4169068429c0" />](https://gitbybit.com/?video=1&utm_source=newsletter&utm_medium=email&utm_campaign=gbb-rollout1)   
+https://gitbybit.com/?video=1&utm_source=newsletter&utm_medium=email&utm_campaign=gbb-rollout1   
